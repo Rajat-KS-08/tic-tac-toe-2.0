@@ -1,0 +1,9 @@
+.headBody {
+    margin: auto;
+    height: 15vh;
+    width: 90vw;
+}
+
+.headBody div {
+    text-align: center;
+}
